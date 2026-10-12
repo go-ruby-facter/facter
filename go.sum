@@ -1,2 +1,4 @@
 github.com/go-facter/facter v0.0.0-20260830120958-454b72e642ab h1:bXPxQDhADpiF/S/8jlRFhVisFPRaxPtPgjibLnOzvsE=
 github.com/go-facter/facter v0.0.0-20260830120958-454b72e642ab/go.mod h1:ghuoOHWXdq5dE3GLPDiz3Uy0ORrvK+1hB7QC997ez2U=
+github.com/go-facter/facter v0.0.0-20261010194044-83994649af1a h1:Tj02V7BJGZByv8lPU80WDHVUnlcHC/RtlxlaulNwIeY=
+github.com/go-facter/facter v0.0.0-20261010194044-83994649af1a/go.mod h1:QOtthkJYvesNfku9hEOQvwmnXE3zzlUBnq6RjYBXOQg=
